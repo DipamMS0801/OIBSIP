@@ -1,2 +1,2 @@
 # OIBSIP
-This repositories shows my Oasis Infobyte Internship Projects
+This repository shows my Oasis Infobyte Internship Projects
